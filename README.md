@@ -16,7 +16,7 @@ or you can use the `plugin` cli to install the plugin like this:
 For Elasticsearch
 
 ```
-bin/elasticsearch-plugin install https://get.infini.cloud/elasticsearch/analysis-ik/8.4.1
+bin/elasticsearch-plugin install https://get.infini.cloud/elasticsearch/analysis-ik/8.15.3
 ```
 
 For OpenSearch
